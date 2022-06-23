@@ -1,0 +1,17 @@
+table.id_card > *
+{
+	text-align: center;
+}
+
+table
+{
+	background-color: #585050;
+	text-align: center;
+}
+
+button
+{
+	background-color: transparent;
+	color: #b4b4b4ad;
+	border-style: hidden;
+}

@@ -1,0 +1,26 @@
+.dropdown
+{
+	position: relative;
+	display: inline-block;
+}
+  
+.dropdown_child
+{
+	border-radius: 0% 0% 10% 10%;
+	display: none;
+	background-color: #8635d1;
+	min-width: 160px;
+	padding: 12px 16px;
+	z-index: 1;
+}
+  
+.dropdown:hover .dropdown_child
+{
+	display: block;
+}
+
+.menu_button
+{
+	padding: 0% 25px 0% 25px;
+	background-color: #6354e7;
+}
